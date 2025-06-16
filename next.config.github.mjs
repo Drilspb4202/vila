@@ -11,9 +11,8 @@ const nextConfig = {
       },
     ],
   },
-  // Убираем basePath для Vercel, он нужен только для GitHub Pages
-  // basePath: process.env.NODE_ENV === 'production' ? '/vila' : '',
-  // assetPrefix: process.env.NODE_ENV === 'production' ? '/vila/' : '',
+  basePath: '/vila',
+  assetPrefix: '/vila/',
 }
 
 export default nextConfig
