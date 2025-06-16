@@ -43,4 +43,7 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+# Temporary folders
+retreat-landing/
 node_modules
