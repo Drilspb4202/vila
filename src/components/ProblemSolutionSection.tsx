@@ -29,7 +29,7 @@ export default function ProblemSolutionSection() {
               Узнаёшь себя?
             </h2>
             <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-              Если хотя бы на 3 вопроса ты ответил "да" — этот ретрит для тебя
+                            Если хотя бы на 3 вопроса ты ответил &ldquo;да&rdquo; — этот ретрит для тебя
             </p>
           </motion.div>
 

@@ -110,7 +110,7 @@ export default function PackagesSection() {
                   {pkg.testimonial && (
                     <div className="bg-gray-50 p-3 rounded-lg mb-4">
                       <p className="text-xs italic text-gray-600 mb-1">
-                        "{pkg.testimonial.text}"
+                        "                        &ldquo;{pkg.testimonial.text}&rdquo;"
                       </p>
                       <p className="text-xs font-semibold text-gray-700">
                         — {pkg.testimonial.author}

@@ -58,7 +58,7 @@ export default function GallerySection() {
           className="text-center mt-12"
         >
           <p className="text-lg text-gray-600 italic">
-            "Здесь время течёт по-другому, а душа находит покой"
+            "            &ldquo;Здесь время течёт по-другому, а душа находит покой&rdquo;"
           </p>
         </motion.div>
       </div>
